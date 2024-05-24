@@ -14,6 +14,24 @@
 		356DAD772BF4FFCA008ECFB7 /* Expense_TrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD762BF4FFCA008ECFB7 /* Expense_TrackerTests.swift */; };
 		356DAD812BF4FFCA008ECFB7 /* Expense_TrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD802BF4FFCA008ECFB7 /* Expense_TrackerUITests.swift */; };
 		356DAD832BF4FFCA008ECFB7 /* Expense_TrackerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD822BF4FFCA008ECFB7 /* Expense_TrackerUITestsLaunchTests.swift */; };
+		356DAD922BF50348008ECFB7 /* IntroScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD912BF50348008ECFB7 /* IntroScreen.swift */; };
+		356DAD952BF50524008ECFB7 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD942BF50524008ECFB7 /* Constants.swift */; };
+		356DAD972BF50923008ECFB7 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD962BF50923008ECFB7 /* Tab.swift */; };
+		356DAD992BF50F9B008ECFB7 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD982BF50F9B008ECFB7 /* Category.swift */; };
+		356DAD9B2BF50FE4008ECFB7 /* Transaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD9A2BF50FE4008ECFB7 /* Transaction.swift */; };
+		356DAD9D2BF510A1008ECFB7 /* TintColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD9C2BF510A1008ECFB7 /* TintColor.swift */; };
+		356DAD9F2BF51329008ECFB7 /* Recents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DAD9E2BF51329008ECFB7 /* Recents.swift */; };
+		356DADA12BF51334008ECFB7 /* Graphs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADA02BF51334008ECFB7 /* Graphs.swift */; };
+		356DADA32BF51342008ECFB7 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADA22BF51342008ECFB7 /* Search.swift */; };
+		356DADA52BF51351008ECFB7 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADA42BF51351008ECFB7 /* Settings.swift */; };
+		356DADA72BFCB0B5008ECFB7 /* View+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADA62BFCB0B5008ECFB7 /* View+Extensions.swift */; };
+		356DADA92BFCBBCE008ECFB7 /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADA82BFCBBCE008ECFB7 /* Date+Extensions.swift */; };
+		356DADAB2BFCC2BD008ECFB7 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADAA2BFCC2BD008ECFB7 /* CardView.swift */; };
+		356DADAD2BFCCF68008ECFB7 /* TransactionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADAC2BFCCF68008ECFB7 /* TransactionCardView.swift */; };
+		356DADB12BFCFE27008ECFB7 /* SwipeAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADB02BFCFE27008ECFB7 /* SwipeAction.swift */; };
+		356DADB32BFD31F6008ECFB7 /* DateFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADB22BFD31F6008ECFB7 /* DateFilterView.swift */; };
+		356DADB52BFF94FB008ECFB7 /* LockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADB42BFF94FB008ECFB7 /* LockView.swift */; };
+		356DADB72BFFB3B2008ECFB7 /* NewExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 356DADB62BFFB3B2008ECFB7 /* NewExpenseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,24 @@
 		356DAD7C2BF4FFCA008ECFB7 /* Expense TrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Expense TrackerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		356DAD802BF4FFCA008ECFB7 /* Expense_TrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expense_TrackerUITests.swift; sourceTree = "<group>"; };
 		356DAD822BF4FFCA008ECFB7 /* Expense_TrackerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expense_TrackerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		356DAD912BF50348008ECFB7 /* IntroScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroScreen.swift; sourceTree = "<group>"; };
+		356DAD942BF50524008ECFB7 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		356DAD962BF50923008ECFB7 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
+		356DAD982BF50F9B008ECFB7 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		356DAD9A2BF50FE4008ECFB7 /* Transaction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transaction.swift; sourceTree = "<group>"; };
+		356DAD9C2BF510A1008ECFB7 /* TintColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TintColor.swift; sourceTree = "<group>"; };
+		356DAD9E2BF51329008ECFB7 /* Recents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recents.swift; sourceTree = "<group>"; };
+		356DADA02BF51334008ECFB7 /* Graphs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphs.swift; sourceTree = "<group>"; };
+		356DADA22BF51342008ECFB7 /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
+		356DADA42BF51351008ECFB7 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		356DADA62BFCB0B5008ECFB7 /* View+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extensions.swift"; sourceTree = "<group>"; };
+		356DADA82BFCBBCE008ECFB7 /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		356DADAA2BFCC2BD008ECFB7 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		356DADAC2BFCCF68008ECFB7 /* TransactionCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionCardView.swift; sourceTree = "<group>"; };
+		356DADB02BFCFE27008ECFB7 /* SwipeAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeAction.swift; sourceTree = "<group>"; };
+		356DADB22BFD31F6008ECFB7 /* DateFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFilterView.swift; sourceTree = "<group>"; };
+		356DADB42BFF94FB008ECFB7 /* LockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockView.swift; sourceTree = "<group>"; };
+		356DADB62BFFB3B2008ECFB7 /* NewExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewExpenseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +130,9 @@
 		356DAD642BF4FFC7008ECFB7 /* Expense Tracker */ = {
 			isa = PBXGroup;
 			children = (
+				356DAD932BF50516008ECFB7 /* Helpers */,
+				356DAD902BF50335008ECFB7 /* View */,
+				356DAD8F2BF5032B008ECFB7 /* Model */,
 				356DAD652BF4FFC7008ECFB7 /* Expense_TrackerApp.swift */,
 				356DAD672BF4FFC7008ECFB7 /* ContentView.swift */,
 				356DAD692BF4FFC9008ECFB7 /* Assets.xcassets */,
@@ -125,6 +164,53 @@
 				356DAD822BF4FFCA008ECFB7 /* Expense_TrackerUITestsLaunchTests.swift */,
 			);
 			path = "Expense TrackerUITests";
+			sourceTree = "<group>";
+		};
+		356DAD8F2BF5032B008ECFB7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				356DAD962BF50923008ECFB7 /* Tab.swift */,
+				356DAD982BF50F9B008ECFB7 /* Category.swift */,
+				356DAD9A2BF50FE4008ECFB7 /* Transaction.swift */,
+				356DAD9C2BF510A1008ECFB7 /* TintColor.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		356DAD902BF50335008ECFB7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				356DAD912BF50348008ECFB7 /* IntroScreen.swift */,
+				356DAD9E2BF51329008ECFB7 /* Recents.swift */,
+				356DADA02BF51334008ECFB7 /* Graphs.swift */,
+				356DADA22BF51342008ECFB7 /* Search.swift */,
+				356DADA42BF51351008ECFB7 /* Settings.swift */,
+				356DADAF2BFCFDF6008ECFB7 /* Helpers */,
+				356DADB62BFFB3B2008ECFB7 /* NewExpenseView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		356DAD932BF50516008ECFB7 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				356DAD942BF50524008ECFB7 /* Constants.swift */,
+				356DADA62BFCB0B5008ECFB7 /* View+Extensions.swift */,
+				356DADA82BFCBBCE008ECFB7 /* Date+Extensions.swift */,
+				356DADB42BFF94FB008ECFB7 /* LockView.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		356DADAF2BFCFDF6008ECFB7 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				356DADAA2BFCC2BD008ECFB7 /* CardView.swift */,
+				356DADAC2BFCCF68008ECFB7 /* TransactionCardView.swift */,
+				356DADB02BFCFE27008ECFB7 /* SwipeAction.swift */,
+				356DADB22BFD31F6008ECFB7 /* DateFilterView.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +343,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				356DADA32BF51342008ECFB7 /* Search.swift in Sources */,
+				356DAD9D2BF510A1008ECFB7 /* TintColor.swift in Sources */,
+				356DADB32BFD31F6008ECFB7 /* DateFilterView.swift in Sources */,
+				356DAD9F2BF51329008ECFB7 /* Recents.swift in Sources */,
+				356DADA12BF51334008ECFB7 /* Graphs.swift in Sources */,
+				356DADAB2BFCC2BD008ECFB7 /* CardView.swift in Sources */,
+				356DADB12BFCFE27008ECFB7 /* SwipeAction.swift in Sources */,
+				356DAD9B2BF50FE4008ECFB7 /* Transaction.swift in Sources */,
+				356DADB72BFFB3B2008ECFB7 /* NewExpenseView.swift in Sources */,
 				356DAD682BF4FFC7008ECFB7 /* ContentView.swift in Sources */,
+				356DADA52BF51351008ECFB7 /* Settings.swift in Sources */,
+				356DAD922BF50348008ECFB7 /* IntroScreen.swift in Sources */,
+				356DAD972BF50923008ECFB7 /* Tab.swift in Sources */,
+				356DADA92BFCBBCE008ECFB7 /* Date+Extensions.swift in Sources */,
+				356DADA72BFCB0B5008ECFB7 /* View+Extensions.swift in Sources */,
+				356DADB52BFF94FB008ECFB7 /* LockView.swift in Sources */,
 				356DAD662BF4FFC7008ECFB7 /* Expense_TrackerApp.swift in Sources */,
+				356DAD952BF50524008ECFB7 /* Constants.swift in Sources */,
+				356DAD992BF50F9B008ECFB7 /* Category.swift in Sources */,
+				356DADAD2BFCCF68008ECFB7 /* TransactionCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,6 +526,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Expense Tracker/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -429,6 +534,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -450,6 +556,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Expense Tracker/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -457,6 +564,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
